@@ -1,8 +1,8 @@
 
 const hero = () => {
   return (
-      <section className="px-4 py-16 text-center max-w-4xl mx-auto">
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
+      <section className="px-4 py-16 text-center max-w-4xl mx-auto ">
+        <h1 className="text-4xl md:text-5xl font-semibold text-gray-900 mb-6 leading-tight">
           Reach Smarter. Send Better. AI-Driven Bulk Email and Personalization Made Simple
         </h1>
         <p className="text-lg text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">

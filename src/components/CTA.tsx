@@ -2,8 +2,8 @@
 const CTA = () => {
   return (
     <section className="mx-4 mb-16">
-      <div className="bg-[#0C8F5B] rounded-2xl px-8 py-20 max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between">
-        <h2 className="text-3xl md:text-4xl font-medium text-white mb-6 md:mb-0">
+      <div className="bg-[#0C8F5B] rounded-2xl px-4 py-10 md:px-8 md:py-20 max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between">
+        <h2 className="text-3xl text-center md:text-4xl font-medium text-white mb-6 md:mb-0">
           Customer Matters First
         </h2>
         <div className="flex flex-col sm:flex-row gap-4">

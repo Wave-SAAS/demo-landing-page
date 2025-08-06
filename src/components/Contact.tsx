@@ -8,7 +8,7 @@ const Contact = () => {
       </h2>
       <div className="items-center gap-5">
         <a
-          href="https://www.instagram.com/trywa.ve?igsh=dW1kNW10ZW11NmY5"
+          href="https://www.linkedin.com/company/budgifyatitsbest/"
           target="_blank"
         >
           <button className="rounded-full mx-3 cursor-pointer">
@@ -16,7 +16,7 @@ const Contact = () => {
           </button>
         </a>
         <a
-          href="https://www.linkedin.com/company/budgifyatitsbest/"
+          href="https://www.tiktok.com/@trywave1?_t=ZM-8ySIphxW4iz&_r=1"
           target="_blank"
         >
           <button className="rounded-full mx-3 cursor-pointer">
@@ -24,7 +24,7 @@ const Contact = () => {
           </button>
         </a>
         <a
-          href="https://www.tiktok.com/@trywave1?_t=ZM-8ySIphxW4iz&_r=1"
+          href="https://www.instagram.com/trywa.ve?igsh=dW1kNW10ZW11NmY5"
           target="_blank"
         >
           <button className="rounded-full mx-3 cursor-pointer">
