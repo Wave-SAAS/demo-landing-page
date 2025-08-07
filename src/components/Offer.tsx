@@ -3,7 +3,7 @@
 const Offer = () => {
   return (
     <section className="px-4 py-16 max-w-5xl mx-auto">
-      <h2 className="text-2xl font-medium text-center text-gray-900 mb-16">
+      <h2 className="text-4xl font-medium text-center text-gray-900 mb-16">
         What we offer
       </h2>
 
