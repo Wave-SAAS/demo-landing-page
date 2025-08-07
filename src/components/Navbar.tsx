@@ -5,7 +5,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 w-full bg-white p-3 text-black shadow-lg md:shadow-none z-50">
+    <nav className="fixed top-0 w-full bg-white p-2 text-black shadow-lg md:shadow-none z-50">
       <div className="container mx-auto flex flex-wrap sm:justify-center items-center">
         {/* Mobile menu button */}
         <button

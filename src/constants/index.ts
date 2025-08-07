@@ -45,7 +45,7 @@ export const teamMembers = [
   },
   {
     id: "b0ef594a-43b8-451f-8ead-0f39998a556d",
-    name: "Elijah Quarcopomme",
+    name: "Elijah Quarcoopome",
     title: "Chief Relations Officer",
     imageUrl: "./image/team/Elijah Quarcopomme.png",
   },
